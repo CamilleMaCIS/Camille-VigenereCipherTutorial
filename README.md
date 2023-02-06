@@ -60,3 +60,6 @@ String aFurtherEncodedMessage = vc.encode(“attackAtdaWn”);
 
 System.out.println(aFurtherEncodedMessage); // lxfopvefrnhr
 
+Name: Camille
+
+Partner: None
