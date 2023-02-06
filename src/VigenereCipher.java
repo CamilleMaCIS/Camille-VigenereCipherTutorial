@@ -1,6 +1,3 @@
-import java.io.FileNotFoundException;
-import java.util.Locale;
-
 public class VigenereCipher {
     //properties
     private String key;
